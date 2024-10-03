@@ -1,0 +1,5 @@
+Inventario actualizado el: 2024-10-03 12:18:04
+
+Inventario:
+Peras (Frutas): 30 unidades
+Manzanas (Frutas): 40 unidades
